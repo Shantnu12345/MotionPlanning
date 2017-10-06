@@ -1,0 +1,1 @@
+David generated a path file that satisfies acceleration constraints. I smooth the path further.
